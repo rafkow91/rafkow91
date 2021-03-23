@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafkow91
+- 👋 Hi, I’m Rafał (rafkow91)
 - 👀 I’m interested in programing, automation and football :)
 - 🌱 I’m currently learning Python with PyStart Bootcamp (PyStart.pl)
 - 💞️ I’m looking to collaborate on all projects that allow me to develop myself and improve my coding level
