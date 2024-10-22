@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafał (rafkow91)
 - 👀 I’m interested in programing and football :)
-- 🌱 I’m currently learning Pandas, FastAPI and working at my private projects
+- 🌱 I’m currently learning Pandas PySpark, AirFlow and GCP and working at my private projects
 - 💞️ I’m looking to collaborate on all projects that allow me to develop myself and improve my coding level
 
 <!---
